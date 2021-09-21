@@ -1,0 +1,52 @@
+section{
+    max-width: 50rem;
+} 
+.banner__caja1{
+    width: 50rem;
+}
+.banner__circle2{
+    width: 8rem;
+    height: 8rem;
+}
+.banner-login h2 {
+    font-size: 5rem;
+}
+.banner-login span {
+    font-size: 2.5rem;
+}
+.banner__year{
+    width: 10rem;
+    height: 3rem;
+    font-size: 1.5rem;
+}
+.banner-login img{
+    width: 50rem;
+}
+.cajas{
+    width: 50rem;
+    height: auto;
+}
+.cajas__hijos h3{
+    font-size: 2.5rem;
+}
+.cajas__hijos{
+    width: 19rem;
+    height: 22rem;
+    margin-top: 4rem;
+}
+.cajas__hijos2{
+    width: 19rem;
+    height: 15rem;
+}
+.cajas__hijos2 img{
+    width: 4rem;
+}
+.cajas__hijos2 h3{
+    font-size: 2rem;;
+    font-weight: 100;
+}
+.Aplications {
+    width: 50rem;
+    margin-top: 10rem;
+    padding: 58rem 2rem
+}
