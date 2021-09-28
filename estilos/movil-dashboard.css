@@ -85,7 +85,21 @@ section{
 
     position: relative;
 }
+.cajas__hijos12{
+    width: 16rem;
+    height: 20.2rem;
+    margin: 0.91rem;
+    background-color: #fff;
+    border: 0.1rem solid var(--azul2);
+    border-radius: 2rem;
+
+    position: relative;
+}
 .cajas__hijos h3{
+    color: var(--gris3);
+    font-weight: 100;
+}
+.cajas__hijos12 h3{
     color: var(--gris3);
     font-weight: 100;
 }
@@ -119,7 +133,19 @@ section{
    margin-left: 2rem;
     margin-bottom: 1rem;
 }
+.cajas__hijos12 img{
+    margin-top: 2rem;
+   margin-left: 2rem;
+    margin-bottom: 1rem;
+}
 .cajas__hijos h1{
+    margin-left: 2rem;
+    font-size: var(--size-h1);
+    margin-bottom: 1rem;
+    font-family: 'Bebas Neue', cursive;
+    font-weight: 100;
+}
+.cajas__hijos12 h1{
     margin-left: 2rem;
     font-size: var(--size-h1);
     margin-bottom: 1rem;
@@ -128,6 +154,11 @@ section{
     
 }
 .cajas__hijos h3{
+    margin-left: 2rem;
+    font-size: var(--size-parrafo);
+    
+}
+.cajas__hijos12 h3{
     margin-left: 2rem;
     font-size: var(--size-parrafo);
     
